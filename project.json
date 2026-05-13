@@ -1,0 +1,25 @@
+{
+  "overview": "Ultra-premium gym landing page for Rock Fitness — a modern, dark-themed showcase with animated hero, service cards, class schedule, membership pricing tiers, and testimonials. Built for Chennai/Tiruvottiyur with a bold black and red aesthetic.",
+  "features": [
+    "Fixed sticky navigation with Join Now CTA",
+    "Full-screen hero with animated floating shapes and fade-in effects",
+    "Feature highlight cards with hover lift effects",
+    "6 service cards with glassmorphism and glow on hover",
+    "Class schedule with red accent bars and online class badges",
+    "3-tier membership pricing with featured Premium card",
+    "Member testimonials with star ratings",
+    "Footer with contact info and quick links",
+    "Fully responsive mobile to desktop",
+    "Smooth scroll and scroll-reveal animations"
+  ],
+  "category": "showcase",
+  "tags": [
+    "gym",
+    "fitness",
+    "landing-page",
+    "premium",
+    "dark-theme",
+    "animations"
+  ],
+  "last_updated": "2026-05-12T18:21:13.072Z"
+}
